@@ -1,4 +1,4 @@
-# Mitocode-mediapp-backend
+# mitocode-evalfinal-backend
 EVALUACION FINAL PARTE BACKEND para la obtención del certificado de aprobación del curso 
 Spring Webflux & React.js - MITOCODE
 
